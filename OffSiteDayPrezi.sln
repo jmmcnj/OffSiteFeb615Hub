@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJS", "ReactJS\ReactJS.csproj", "{B3679C80-A718-439F-9029-557FFD70A688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpreziJS", "ImpreziJS\ImpreziJS.csproj", "{85ED5223-59A8-4869-9483-250666B3CC4F}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeExpressApp1", "NodeExpressApp1\NodeExpressApp1.njsproj", "{F30F9D3C-4610-427C-8712-0090B136FC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3679C80-A718-439F-9029-557FFD70A688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B3679C80-A718-439F-9029-557FFD70A688}.Release|x86.ActiveCfg = Release|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Release|ARM.ActiveCfg = Release|Any CPU
+		{85ED5223-59A8-4869-9483-250666B3CC4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F30F9D3C-4610-427C-8712-0090B136FC44}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
